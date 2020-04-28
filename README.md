@@ -1,8 +1,8 @@
 # adforest-android-app
 ## AdForest Android Native App
 
-————— Thank you for your checking this repository! ———————————————————
 
+————— Thank you for your checking this repository! ———————————————————
 
 
 If you need support follow the link below.
