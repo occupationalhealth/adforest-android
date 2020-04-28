@@ -6,9 +6,9 @@
 
 
 If you need support follow the link below.
-`https://scriptsbundle.ticksy.com/`
+https://scriptsbundle.ticksy.com/
 
 If you don’t have an internet connection, you can check the offline documentation (exported pdf of the web version).
 
 Live Documentation: 
-`http://documentation.scriptsbundle.com/docs/adforest-android-native-app/`
+http://documentation.scriptsbundle.com/docs/adforest-android-native-app/
