@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="adforestAPI">
+            <key name="heading"/>
+            <key name="app_about_title"/>
+            <key name="app_wpml_logo"/>
+            <key name="app_about_desc"/>
+            <key name="app_version_title"/>
+            <key name="allow_app_rating_title"/>
+            <key name="allow_app_share_title"/>
+            <key name="allow_app_share_text"/>
+            <key name="app_faqs_title"/>
+            <key name="app_privacy_policy_title"/>
+            <key name="app_tandc_title"/>
+            <key name="app_feedback_title"/>
+            <key name="app_feedback_subline"/>
+            <key name="payment_thankyou"/>
+            <key name="sb_home_screen_title"/>
+            <key name="search_section_show_title"/>
+            <key name="search_section_show_subtitle"/>
+            <key name="search_section_show_placeholder"/>
+            <key name="sb_home_ads_title"/>
+            <key name="sb_home_latest_ads_title"/>
+            <key name="sb_home_nearby_ads_title"/>
+            <key name="api_location_title"/>
+            <key name="api_blogNews_title"/>
+            <key name="api_ad_details_info_link_text"/>
+            <key name="sb_related_ads_title"/>
+            <key name="sb_search_ads_title"/>
+            <key name="sb_ad_rating_title"/>
+            <key name="sb_new_user_register_checkbox_text"/>
+            <key name="sb_comments_section_title"/>
+            <key name="sb_comments_section_note"/>
+            <key name="wpml_header_title1"/>
+            <key name="wpml_header_title2"/>
+            <key name="wpml_menu_text"/>
+        </key>
+    </admin-texts>
+</wpml-config>
